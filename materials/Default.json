@@ -1,0 +1,10 @@
+{
+    "name": "Default",
+    "shaders": {
+        "vertex": "Texture",
+        "pixel": "Texture"
+    },
+    "textures": {
+        "albedo": "Default"
+    }
+}
